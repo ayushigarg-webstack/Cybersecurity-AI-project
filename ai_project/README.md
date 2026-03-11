@@ -1,10 +1,10 @@
 # AI Network Traffic Classifier
 
-## 📁 Project Files
+## Project Files
 
 This folder contains all the core Python files and documentation for the AI-based Network Traffic Classification project.
 
-### 🐍 Python Files
+### Python Files
 
 - **`main.py`** - Main execution script (run this!)
 - **`config.py`** - Configuration and hyperparameters
@@ -15,14 +15,14 @@ This folder contains all the core Python files and documentation for the AI-base
 - **`step5_model_evaluation.py`** - Model evaluation
 - **`requirements.txt`** - Python dependencies
 
-### 📚 Documentation
+### Documentation
 
 - **`README.md`** - This file
 - **`QUICK_START.md`** - Quick start guide (if available)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install Dependencies
 ```bash
@@ -36,7 +36,7 @@ python main.py
 
 ---
 
-## 📊 What This Project Does
+## What This Project Does
 
 1. **Loads** KDD Cup 99 dataset (network traffic data)
 2. **Preprocesses** data (handles missing values, encoding, scaling)
@@ -50,7 +50,7 @@ python main.py
 
 ---
 
-## 📈 Expected Results
+## Expected Results
 
 - **Accuracy**: 85-90%
 - **Best Model**: Random Forest
@@ -58,18 +58,7 @@ python main.py
 
 ---
 
-## 🎓 For Viva
-
-This project demonstrates:
-- Complete ML pipeline
-- Data preprocessing techniques
-- Feature engineering
-- Model comparison
-- Performance evaluation
-
----
-
-## 📝 Notes
+## Notes
 
 - **3 Models** (no XGBoost for simpler installation)
 - **85-90% Accuracy** (realistic for academic submission)
@@ -78,4 +67,5 @@ This project demonstrates:
 
 ---
 
-**Ready to run!** Just execute `python main.py` 🎉
+**Ready to run!** Just execute `python main.py` 
+
